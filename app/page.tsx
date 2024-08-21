@@ -1,10 +1,9 @@
 'use client'
 
-import { BellsBringerAppHome } from "@/components/bells-bringer-app-home"
-import { BellsBringerAppHome2 } from "@/components/bells-bringer-app-home2"
+import { BellSwapIoLanding } from "@/components/bell-swap-io-landing"
 
 export default function (){
     return (
-        <BellsBringerAppHome2 />
+        <BellSwapIoLanding />
     )
 }

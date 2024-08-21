@@ -78,7 +78,7 @@ export function BellsBringerAppHome2() {
           <div className="flex justify-center">
             <div className="relative w-full max-w-md">
               <img
-                src="/images/bellsbringer_avatar.png"
+                src="/images/bells_bringer_cartridge.png"
                 alt="Game Character"
                 className="w-full h-auto object-contain"
                 width="400"
