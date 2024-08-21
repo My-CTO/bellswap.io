@@ -267,7 +267,7 @@ export function BellswapLanding() {
   )
 }
 
-function ClockIcon(props) {
+function ClockIcon(props: any) {
   return (
     <svg
       {...props}
@@ -288,7 +288,7 @@ function ClockIcon(props) {
 }
 
 
-function CloudLightningIcon(props) {
+function CloudLightningIcon(props: any) {
   return (
     <svg
       {...props}
@@ -309,7 +309,7 @@ function CloudLightningIcon(props) {
 }
 
 
-function CoinsIcon(props) {
+function CoinsIcon(props: any) {
   return (
     <svg
       {...props}
@@ -332,7 +332,7 @@ function CoinsIcon(props) {
 }
 
 
-function DiffIcon(props) {
+function DiffIcon(props: any) {
   return (
     <svg
       {...props}
@@ -354,7 +354,7 @@ function DiffIcon(props) {
 }
 
 
-function MenuIcon(props) {
+function MenuIcon(props: any) {
   return (
     <svg
       {...props}
@@ -376,7 +376,7 @@ function MenuIcon(props) {
 }
 
 
-function ShieldIcon(props) {
+function ShieldIcon(props: any) {
   return (
     <svg
       {...props}
@@ -396,7 +396,7 @@ function ShieldIcon(props) {
 }
 
 
-function ShuffleIcon(props) {
+function ShuffleIcon(props: any) {
   return (
     <svg
       {...props}
@@ -420,7 +420,7 @@ function ShuffleIcon(props) {
 }
 
 
-function WalletIcon(props) {
+function WalletIcon(props: any) {
   return (
     <svg
       {...props}
