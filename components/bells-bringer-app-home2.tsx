@@ -44,7 +44,7 @@ export function BellsBringerAppHome2() {
           </nav>
         </div>
         <div className="flex items-center gap-4">
-          <Button variant="outline" className="px-4 py-2 rounded-full text-white hover:bg-[#66D9FF]">
+          <Button variant="outline" className="px-4 py-2 rounded-full text-black hover:bg-[#66D9FF]">
             Connect Wallet
           </Button>
           <Avatar className="w-10 h-10 rounded-full border-2 border-white">
@@ -64,7 +64,7 @@ export function BellsBringerAppHome2() {
             </div>
             <p className="text-[#666666] text-lg">
               Join the adventure and become a player character in the vibrant world of BellsBringer. Purchase a game
-              cartridge to unlock the original Light Bringer game and embark on an unforgettable journey.
+              cartridge to unlock the original Light game and embark on an unforgettable journey.
             </p>
             <div className="flex gap-4">
               <Button className="bg-[#00B2FF] text-white px-6 py-3 rounded-full hover:bg-[#66D9FF] hover:text-[#333333]">
@@ -78,7 +78,7 @@ export function BellsBringerAppHome2() {
           <div className="flex justify-center">
             <div className="relative w-full max-w-md">
               <img
-                src="/placeholder.svg"
+                src="/images/bellsbringer_avatar.png"
                 alt="Game Character"
                 className="w-full h-auto object-contain"
                 width="400"
@@ -99,7 +99,7 @@ export function BellsBringerAppHome2() {
               <div className="inline-block bg-[#66D9FF] px-3 py-1 rounded-full text-[#333333] text-sm font-medium">
                 Game Cartridge
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#333333]">Unlock the Original Light Bringer</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#333333]">Unlock the Original Light</h2>
             </div>
             <div className="flex items-center gap-4">
               <div className="bg-[#00B2FF] rounded-full p-4">
@@ -113,7 +113,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/explore_the_world.png"
                     alt="Game Character"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -134,7 +134,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/collect_and_customize.png"
                     alt="Game Character"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -155,7 +155,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/dynamic_combat.png"
                     alt="Game Character"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -186,7 +186,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/lush_landscapes.png"
                     alt="Lush Landscapes"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -204,7 +204,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/dynamic_combat.png"
                     alt="Dynamic Combat"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -224,7 +224,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/bell_economy.png"
                     alt="Bell Economy"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -242,7 +242,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/friendly_villagers.png"
                     alt="Friendly Villagers"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -260,7 +260,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/island_customization.png"
                     alt="Island Customization"
                     className="w-full h-auto object-contain"
                     width="200"
@@ -278,7 +278,7 @@ export function BellsBringerAppHome2() {
               <CardContent className="p-6">
                 <div className="flex items-center justify-center">
                   <img
-                    src="/placeholder.svg"
+                    src="/images/bell_mastery.png"
                     alt="Bell Mastery"
                     className="w-full h-auto object-contain"
                     width="200"

@@ -63,7 +63,7 @@ export function BellsBringerAppHome() {
             </div>
             <p className="text-[#666666] text-lg">
               Join the adventure and become a player character in the vibrant world of BellsBringer. Purchase a game
-              cartridge to unlock the original Light Bringer game and embark on an unforgettable journey.
+              cartridge to unlock the game and embark on an unforgettable journey.
             </p>
             <div className="flex gap-4">
               <Button className="bg-[#FF9900] text-white px-6 py-3 rounded-full hover:bg-[#FFCC80] hover:text-[#333333]">
@@ -98,7 +98,7 @@ export function BellsBringerAppHome() {
               <div className="inline-block bg-[#FFCC80] px-3 py-1 rounded-full text-[#333333] text-sm font-medium">
                 Game Cartridge
               </div>
-              <h2 className="text-3xl md:text-4xl font-bold text-[#333333]">Unlock the Original Light Bringer</h2>
+              <h2 className="text-3xl md:text-4xl font-bold text-[#333333]">Unlock the Original Light</h2>
             </div>
             <div className="flex items-center gap-4">
               <div className="bg-[#FF9900] rounded-full p-4">

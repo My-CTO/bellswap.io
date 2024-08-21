@@ -53,7 +53,7 @@ export default function Component() {
                     Welcome to BellsBringer
                   </h1>
                   <p className="mx-auto max-w-[700px] text-white md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed drop-shadow-lg">
-                    Embark on a whimsical adventure inspired by Light Bringer and Animal Crossing!
+                    Embark on a whimsical adventure inspired by classic video games in the world of BellsBringer.
                   </p>
                 </div>
                 <div className="space-x-4">
